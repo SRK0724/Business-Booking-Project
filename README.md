@@ -1,7 +1,4 @@
 # Business-Booking-Project
-Data analysis using Excel
-# Business Booking Insight
-
 ## Project Overview
 Business Booking Insight is a data-driven analytical project designed to extract meaningful insights from business booking data. This project provides an in-depth understanding of booking trends, customer behavior, revenue patterns, and operational efficiency, aiding businesses in making informed decisions.
 
